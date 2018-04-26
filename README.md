@@ -8,8 +8,6 @@
 
 * Weird, tiny restaurant run by a cheerful, tiny Japanese man in a bright yellow shirt (the eponymous Kazu)
 
-* Everything is absolutely delicious, even the super strange stuff
-
 * Time your arrival right - try to show up at the beginning of service (or near the end), or you will wait on a long line -- you may still have to wait on a short line, but it's 100% worth it
 
 * Limit yourself to groups of 4 or fewer
@@ -102,17 +100,17 @@
 
 * $11-15CAD for a giant bowl of warm, comforting deliciousness 
 
-**Le Quartier Général**,[ 1251 rue Gilford](https://maps.google.com/?q=1251+rue+Gilford&entry=gmail&source=g)
+**Le Quartier Général**, [1251 rue Gilford](https://maps.google.com/?q=1251+rue+Gilford&entry=gmail&source=g)
 
 * Area sourced food Québécois cuisine. Good, but not cheap--medium to expensive.
 
 **Desserts**:
 
-**Juliette & Chocolat, **[3600 Boul. St Laurent](https://maps.google.com/?q=3600+Boul.+St+Laurent&entry=gmail&source=g), and other locations
+**Juliette & Chocolat,** [3600 Boul. St Laurent](https://maps.google.com/?q=3600+Boul.+St+Laurent&entry=gmail&source=g), and other locations
 
 I love this place, there are several locations in Montreal and, if you're in the mood for a dessert, this is a great choice.
 
-**Cacao 70**,[ 2087 Sainte-Catherine Ouest](https://maps.google.com/?q=2087+Sainte-Catherine+Ouest&entry=gmail&source=g)
+**Cacao 70**, [2087 Sainte-Catherine Ouest](https://maps.google.com/?q=2087+Sainte-Catherine+Ouest&entry=gmail&source=g)
 
 This has a warm, rustic urban café ambiance, the desserts are amazing tasting and amazing looking. I would definitely encourage you to stop here. It is downtown near the Guy metro area.
 
@@ -130,17 +128,17 @@ Many Montrealers believe that their bagels are superior to NY bagels. They are v
 
 There are basically two places near each other that compete for the "best Montreal bagel" crown:
 
-**Fairmount Bagels**,[ 74 Ave Fairmount Ouest](https://maps.google.com/?q=74+Ave+Fairmount+Ouest&entry=gmail&source=g), open 24 hours
+**Fairmount Bagels**, [74 Ave Fairmount Ouest](https://maps.google.com/?q=74+Ave+Fairmount+Ouest&entry=gmail&source=g), open 24 hours
 
 **St-Viateur**, [263 rue St-Viateur](https://maps.google.com/?q=St-Viateur,+263+rue+St-Viateur&entry=gmail&source=g), open 24 hours
 
 **Markets**:
 
-**Marché Jean Talon**,[ 7070 Ave Henri Julien](https://maps.google.com/?q=7070+Ave+Henri+Julien&entry=gmail&source=g)
+**Marché Jean Talon**, [7070 Ave Henri Julien](https://maps.google.com/?q=7070+Ave+Henri+Julien&entry=gmail&source=g)
 
 * This is a large open air market where you'll find meats, vegetables, fruit, maple syrup, cheeses etc.
 
-**Marché Atwater**,[ 138 Atwater Ave](https://maps.google.com/?q=138+Atwater+Ave&entry=gmail&source=g)
+**Marché Atwater**, [138 Atwater Ave](https://maps.google.com/?q=138+Atwater+Ave&entry=gmail&source=g)
 
 * This is similar to the Jean-Talon Market, but at the opposite end of the city.
 
@@ -182,9 +180,9 @@ There are basically two places near each other that compete for the "best Montre
 
 ## Music Venues
 
-**Casa del Popolo, **[4873 St-Laurent](https://www.google.com/maps/place/Casa+Del+Popolo/@45.5221802,-73.5927865,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd44c240de3:0xe8d6ca13549e6984!8m2!3d45.5221802!4d-73.5905978)
+**Casa del Popolo**, [4873 St-Laurent](https://www.google.com/maps/place/Casa+Del+Popolo/@45.5221802,-73.5927865,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd44c240de3:0xe8d6ca13549e6984!8m2!3d45.5221802!4d-73.5905978)
 
-**La Sala Rossa, **[4848 St-Laurent](https://www.google.com/maps/place/La+Sala+Rosa/@45.5217929,-73.5926361,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd4455f2071:0xb19690d07af4abc0!8m2!3d45.5217929!4d-73.5904473)
+**La Sala Rossa**, [4848 St-Laurent](https://www.google.com/maps/place/La+Sala+Rosa/@45.5217929,-73.5926361,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd4455f2071:0xb19690d07af4abc0!8m2!3d45.5217929!4d-73.5904473)
 
 **La Vitriola,** [4602 St-Laurent](https://www.google.com/maps/place/La+Vitrola/@45.5209978,-73.5907646,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd47e3aa8d9:0xd7088c82230ed567!8m2!3d45.5209978!4d-73.5885759)
 
@@ -194,7 +192,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list for all three](https://www.lfttckt.com/en/calendar/casa-del-popolo)
 
-**Diese Onze (Bar/Live Jazz),****[ 4115 Rue St Deni**s](https://maps.google.com/?q=4115+Rue+St+Denis&entry=gmail&source=g)
+**Diese Onze (Bar/Live Jazz),** [4115 Rue St Denis](https://maps.google.com/?q=4115+Rue+St+Denis&entry=gmail&source=g)
 
 * Super cool jazz venue tucked into a basement on the Plateau
 
@@ -202,7 +200,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](http://www.dieseonze.com/calendrier.php?l=en)
 
-**Brutopia (Bar/Brew Pub/Live Music),****[ 1219 rue Crescen**t](https://maps.google.com/?q=1219+rue+Crescent&entry=gmail&source=g)
+**Brutopia (Bar/Brew Pub/Live Music)** [1219 rue Crescent](https://maps.google.com/?q=1219+rue+Crescent&entry=gmail&source=g)
 
 * Chill downtown bar with live music almost every night
 
@@ -212,7 +210,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](http://brutopia.net/entertainment)
 
-**Upstairs (Bar/Live Jazz),****[ 1254 rue Macka**y](https://maps.google.com/?q=1254+rue+Mackay&entry=gmail&source=g)
+**Upstairs (Bar/Live Jazz),** [1254 rue Mackay](https://maps.google.com/?q=1254+rue+Mackay&entry=gmail&source=g)
 
 * Classy and popular downtown jazz venue--look for the upside-down sign
 
@@ -222,7 +220,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](https://www.upstairsjazz.com/en/calendar.php)
 
-**Bar Le Ritz PDB (Music Venue),****[ 179 rue Jean-Talo**n](https://maps.google.com/?q=179+rue+Jean-Talon&entry=gmail&source=g)
+**Bar Le Ritz PDB (Music Venue),** [179 rue Jean-Talon](https://maps.google.com/?q=179+rue+Jean-Talon&entry=gmail&source=g)
 
 * Famous-ish MTL indie music venue
 
@@ -230,7 +228,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](https://barleritzpdb.com/)
 
-**Hurley's, **[1225 rue Crescent](https://www.google.com/maps/place/1225+Rue+Crescent,+Montr%C3%A9al,+QC+H3G+2B1,+Canada/@45.496912,-73.5769446,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a69e48e8b41:0x75e365c87d95d529!8m2!3d45.496912!4d-73.5747559)
+**Hurley's**, [1225 rue Crescent](https://www.google.com/maps/place/1225+Rue+Crescent,+Montr%C3%A9al,+QC+H3G+2B1,+Canada/@45.496912,-73.5769446,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a69e48e8b41:0x75e365c87d95d529!8m2!3d45.496912!4d-73.5747559)
 
 * celtic/folk music on just about any night
 
