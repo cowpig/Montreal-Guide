@@ -1,6 +1,6 @@
-#Guide to Montreal
+# Guide to Montreal
 
-**Food**:
+## Food
 
 **Kazu**,[ 1862 Ste-Catherine Ouest](https://maps.google.com/?q=1862+Ste-Catherine+Ouest&entry=gmail&source=g)
 
@@ -20,7 +20,7 @@
 
 * About $13-25CAD/dish 
 
-**Au Pied de Cochon**,[ 536 Ave. Duluth E](https://maps.google.com/?q=536+Ave.+Duluth+E&entry=gmail&source=g).
+**Au Pied de Cochon**, [536 Ave. Duluth E](https://maps.google.com/?q=536+Ave.+Duluth+E&entry=gmail&source=g).
 
 * Very Montréal gustatory adventure from Québec chef Martin Picard
 
@@ -28,7 +28,7 @@
 
 * Pretty expensive @ $15-40 CAD/dish
 
-**Toque, **[900 Jean Paul Riopelle](https://www.google.com/maps/place/Toqu%C3%A9!/@45.502948,-73.5633926,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a5a5bcf3cf9:0xbc597e7aa83a3a3!8m2!3d45.502948!4d-73.561204)
+**Toque,** [900 Jean Paul Riopelle](https://www.google.com/maps/place/Toqu%C3%A9!/@45.502948,-73.5633926,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a5a5bcf3cf9:0xbc597e7aa83a3a3!8m2!3d45.502948!4d-73.561204)
 
 * Long-considered one of Montreal’s finest restaurants
 
@@ -144,9 +144,9 @@ There are basically two places near each other that compete for the "best Montre
 
 * This is similar to the Jean-Talon Market, but at the opposite end of the city.
 
-**Breweries/Craft Beers**:
+## Breweries/Craft Beers
 
-**Dieu Du Ciel**,[ 29 Laurier Avenue](https://maps.google.com/?q=29+Laurier+Avenue&entry=gmail&source=g)
+**Dieu Du Ciel**, [29 Laurier Avenue](https://maps.google.com/?q=29+Laurier+Avenue&entry=gmail&source=g)
 
 * A must for micro-brew-lovers -- delicious seasonal beers in a homey pub atmosphere.
 
@@ -156,15 +156,15 @@ There are basically two places near each other that compete for the "best Montre
 
 * The food isn’t great. The beer is the star.
 
-**Isle de Garde**,[ 1039 rue Beaubien Est](https://maps.google.com/?q=1039+rue+Beaubien+Est&entry=gmail&source=g)
+**Isle de Garde**, [1039 rue Beaubien Est](https://maps.google.com/?q=1039+rue+Beaubien+Est&entry=gmail&source=g)
 
-**Réservoir**,[ 9 Ave Duluth Est](https://maps.google.com/?q=9+Ave+Duluth+Est&entry=gmail&source=g)
+**Réservoir**, [9 Ave Duluth Est](https://maps.google.com/?q=9+Ave+Duluth+Est&entry=gmail&source=g)
 
 * Also serves good vegetarian food
 
-**Cheval Blanc**,[ 809 Ontario Est](https://maps.google.com/?q=809+Ontario+Est&entry=gmail&source=g)
+**Cheval Blanc**, [809 Ontario Est](https://maps.google.com/?q=809+Ontario+Est&entry=gmail&source=g)
 
-**Vices & Versa, **[6631 Boul. St Laurent](https://maps.google.com/?q=6631+Boul.+St+Laurent&entry=gmail&source=g)
+**Vices & Versa**, [6631 Boul. St Laurent](https://maps.google.com/?q=6631+Boul.+St+Laurent&entry=gmail&source=g)
 
 * Great selection of Quebec beers and other assorted intrigues (alcoholized Kombucha, etc.)
 
@@ -172,7 +172,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * Food is solid but not spectacular, around $10-15CAD/dish
 
-**Le Saint-Brock,****[ 1749 rue St-Deni**s](https://maps.google.com/?q=1749%C2%A0rue+St-Denis&entry=gmail&source=g)
+**Le Saint-Brock,** [1749 rue St-Denis](https://maps.google.com/?q=1749%C2%A0rue+St-Denis&entry=gmail&source=g)
 
 * Massive selection of interesting beer (I think they have 50 on tap any given night, plus their "Bible" of bottles)
 
@@ -180,7 +180,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * Pints around $8-9CAD
 
-**Music Venues****:**
+## Music Venues
 
 **Casa del Popolo, **[4873 St-Laurent](https://www.google.com/maps/place/Casa+Del+Popolo/@45.5221802,-73.5927865,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bd44c240de3:0xe8d6ca13549e6984!8m2!3d45.5221802!4d-73.5905978)
 
@@ -201,12 +201,6 @@ There are basically two places near each other that compete for the "best Montre
 * Watch the best MTL jazz musicians try to impress each other during jam sessions
 
 * [set list](http://www.dieseonze.com/calendrier.php?l=en)
-
-**Le Divan Orange (Bar/Live Music),****[ 4234 Boul. St Lauren**t](https://maps.google.com/?q=4234+Boul.+St+Laurent&entry=gmail&source=g)
-
-* Great local music venue for small/medium bands. Sometimes big name bands have after-parties here.
-
-* [set list](https://www.setlist.fm/venue/le-divan-orange-montreal-qc-canada-23d638af.html)
 
 **Brutopia (Bar/Brew Pub/Live Music),****[ 1219 rue Crescen**t](https://maps.google.com/?q=1219+rue+Crescent&entry=gmail&source=g)
 
