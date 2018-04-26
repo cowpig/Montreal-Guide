@@ -32,7 +32,7 @@
 
 * Very expensive, but very, very good.
 
-**Fung Shing**,[ 1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g) 
+**Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g) 
 
 * Chinese restaurant  "hole in the wall"
 
@@ -42,33 +42,33 @@
 
 * Nice little cafe/bar in the plateau that serves great food
 
-**Rotisseri Romados**,[ 115 rue Rachel Est](https://maps.google.com/?q=115+rue+Rachel+Est&entry=gmail&source=g)
+**Rotisseri Romados**, [115 rue Rachel Est](https://maps.google.com/?q=115+rue+Rachel+Est&entry=gmail&source=g)
 
 * The plateau is full of Portuguese restaurants, especially chicken places. This is the best one
 
 * Very cheap, fast service
 
-**Patati Patata**,[ 4177 Boul St-Laurent](https://maps.google.com/?q=4177+Boul+St-Laurent&entry=gmail&source=g)
+**Patati Patata**, [4177 Boul St-Laurent](https://maps.google.com/?q=4177+Boul+St-Laurent&entry=gmail&source=g)
 
 * Cheap & delicious tiny hole-in-the-wall that serves traditional quebec junk food. Expect to wait in line during peak hours
 
-**Ganadera**,[ 1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest&entry=gmail&source=g)
+**Ganadera**, [1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest&entry=gmail&source=g)
 
 * Korean restaurant in the Concordia University area. Cheap and really good.
 
-**Antep Kebab**,[ 1626 de Maisonneuve Ouest](https://maps.google.com/?q=1626+de+Maisonneuve+Ouest&entry=gmail&source=g)
+**Antep Kebab**, [1626 de Maisonneuve Ouest](https://maps.google.com/?q=1626+de+Maisonneuve+Ouest&entry=gmail&source=g)
 
 * Quick, cheap & good Turkish sandwich shop in the Concordia/Guy metro area.
 
-**Nulifar**,[ 1923 Ste-Catherine Ouest](https://maps.google.com/?q=1923+Ste-Catherine+Ouest&entry=gmail&source=g)
+**Nulifar**, [1923 Ste-Catherine Ouest](https://maps.google.com/?q=1923+Ste-Catherine+Ouest&entry=gmail&source=g)
 
 * Another quick, cheap & delicious Guy/Concordia area option. Lebanese food.
 
-**My Cahn**,[ 1086 Boul St. Laurent](https://maps.google.com/?q=1086+Boul+St.+Laurent&entry=gmail&source=g)
+**My Cahn**, [1086 Boul St. Laurent](https://maps.google.com/?q=1086+Boul+St.+Laurent&entry=gmail&source=g)
 
 * Fantastic Pho place in chinatown
 
-**The Main, **[3864 Boul. St. Laurent](https://maps.google.com/?q=3864+Boul.+St.+Laurent&entry=gmail&source=g)
+**The Main**, [3864 Boul. St. Laurent](https://maps.google.com/?q=3864+Boul.+St.+Laurent&entry=gmail&source=g)
 
 * A Montreal cultural experience! 
 
@@ -78,25 +78,25 @@
 
 * $10-15CAD/dish 
 
-**Schwartz's**,[ 3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent&entry=gmail&source=g)
+**Schwartz's**, [3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent&entry=gmail&source=g)
 
 * This is a tourist stop and a fantastic smoked meat deli but our family prefers The Main which is across the street.
 
-**Joe Beef**,[ 2491 rue Notre Dame Ouest](https://maps.google.com/?q=2491+rue+Notre+Dame+Ouest&entry=gmail&source=g), 514-935-6504
+**Joe Beef**, [2491 rue Notre Dame Ouest](https://maps.google.com/?q=2491+rue+Notre+Dame+Ouest&entry=gmail&source=g), 514-935-6504
 
 * Located in "Little Burgundy", this restaurant serves wonderful food, it has broad acclaim but it is rather pricey. You will need reservations.
 
-**Le Vin Papillon**,[ 2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest&entry=gmail&source=g)
+**Le Vin Papillon**, [2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest&entry=gmail&source=g)
 
 * Same owner as Joe Beef, and also somewhat pricey. Just down the street.
 
-**Qing Hua**,[ 1676 Ave Lincoln](https://maps.google.com/?q=1676+Ave+Lincoln&entry=gmail&source=g)
+**Qing Hua**, [1676 Ave Lincoln](https://maps.google.com/?q=1676+Ave+Lincoln&entry=gmail&source=g)
 
 * Chinese soup dumplings place located downtown, a good choice for tasty, cheap meal
 
-**Yokato Yokabai Ramen**, 4185 Drolet
+**Yokato Yokabai Ramen**, [4185 Drolet](https://www.google.com/maps/place/Yokato+Yokabai+Ramen/@45.5212477,-73.5807153,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bcdce6fef43:0xb9d59a5426dbb271!8m2!3d45.5212477!4d-73.5785266)
 
-* The best ramen in Montreal — a different way to look at ramen. Karaage chicken is also delicious
+* Great ramen place in the plateau. Karaage chicken is also delicious
 
 * $11-15CAD for a giant bowl of warm, comforting deliciousness 
 
