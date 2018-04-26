@@ -76,6 +76,8 @@
 
 * Get a Medium smoked meat sandwich (medium refers to the amount of fattiness)
 
+* Get the smoked meat poutine, the gravy is amazing, ask for extra cheese if your budget can spare it
+
 * $10-15CAD/dish 
 
 **Schwartz's**, [3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent&entry=gmail&source=g)
