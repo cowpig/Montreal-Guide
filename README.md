@@ -86,10 +86,6 @@
 
 * Located in "Little Burgundy", this restaurant serves wonderful food, it has broad acclaim but it is rather pricey. You will need reservations.
 
-**Le Vin Papillon**, [2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest&entry=gmail&source=g)
-
-* Same owner as Joe Beef, and also somewhat pricey. Just down the street.
-
 **Qing Hua**, [1676 Ave Lincoln](https://maps.google.com/?q=1676+Ave+Lincoln&entry=gmail&source=g)
 
 * Chinese soup dumplings place located downtown, a good choice for tasty, cheap meal
@@ -141,6 +137,29 @@ There are basically two places near each other that compete for the "best Montre
 **Marché Atwater**, [138 Atwater Ave](https://maps.google.com/?q=138+Atwater+Ave&entry=gmail&source=g)
 
 * This is similar to the Jean-Talon Market, but at the opposite end of the city.
+
+## Wine bars
+
+**Le Vin Papillon**, [2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest&entry=gmail&source=g)
+
+* Same owner as Joe Beef, and also somewhat pricey. Just down the street.
+
+**La Buvette chez Simone [4859 Parc Ave](https://goo.gl/maps/EiAVv22Xu5B2)
+
+* Great atmosphere
+* Can get very busy
+
+**Pullman [3424 Park Ave](https://goo.gl/maps/QfUrNrydKhv)
+
+* pricy but good ambiance, staff and tapas
+
+** Philemon [111 St Paul W](https://goo.gl/maps/xuYeh6jHZnm)
+
+* in beautiful old montreal
+
+** Furco [425 Mayor Street](https://goo.gl/maps/TNmS12vRx6A2)
+
+* popular spot for yuppies
 
 ## Breweries/Craft Beers
 
