@@ -104,7 +104,7 @@
 
 * Area sourced food Québécois cuisine. Good, but not cheap--medium to expensive.
 
-**Desserts**:
+**Desserts / Cafés**:
 
 **Juliette & Chocolat,** [3600 Boul. St Laurent](https://maps.google.com/?q=3600+Boul.+St+Laurent&entry=gmail&source=g), and other locations
 
@@ -113,6 +113,12 @@ I love this place, there are several locations in Montreal and, if you're in the
 **Cacao 70**, [2087 Sainte-Catherine Ouest](https://maps.google.com/?q=2087+Sainte-Catherine+Ouest&entry=gmail&source=g)
 
 This has a warm, rustic urban café ambiance, the desserts are amazing tasting and amazing looking. I would definitely encourage you to stop here. It is downtown near the Guy metro area.
+
+**Crew Collective**, [360 St Jacques St](https://goo.gl/maps/3gsqUpEpcrS2)
+
+Incredible cafe + coworking space in a repurposed 19th century
+bank [preview](https://www.google.ca/search?q=crew+collective+%26+caf%C3%A9+montreal+qc&safe=off&client=ubuntu&hs=8ku&source=lnms&tbm=isch&sa=X&ved=0ahUKEwju7J-iy9vaAhVIwlkKHRXQC3AQ_AUICygC&biw=1797&bih=1009).
+Gorgeous setting, good coffee, good wifi, excellent place to catch up on email or do a few commits.
 
 **Bagels**:
 
