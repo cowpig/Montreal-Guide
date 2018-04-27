@@ -144,20 +144,20 @@ There are basically two places near each other that compete for the "best Montre
 
 * Same owner as Joe Beef, and also somewhat pricey. Just down the street.
 
-**La Buvette chez Simone [4859 Parc Ave](https://goo.gl/maps/EiAVv22Xu5B2)
+**La Buvette chez Simone** [4859 Parc Ave](https://goo.gl/maps/EiAVv22Xu5B2)
 
 * Great atmosphere
 * Can get very busy
 
-**Pullman [3424 Park Ave](https://goo.gl/maps/QfUrNrydKhv)
+**Pullman** [3424 Park Ave](https://goo.gl/maps/QfUrNrydKhv)
 
 * pricy but good ambiance, staff and tapas
 
-** Philemon [111 St Paul W](https://goo.gl/maps/xuYeh6jHZnm)
+**Philemon** [111 St Paul W](https://goo.gl/maps/xuYeh6jHZnm)
 
 * in beautiful old montreal
 
-** Furco [425 Mayor Street](https://goo.gl/maps/TNmS12vRx6A2)
+**Furco** [425 Mayor Street](https://goo.gl/maps/TNmS12vRx6A2)
 
 * popular spot for yuppies
 
