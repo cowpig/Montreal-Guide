@@ -16,7 +16,7 @@
 
 * Try the plum wine or homemade ice cream for dessert -- I recommend Green Tea or Sparkling Maple
 
-* About $13-25CAD/dish 
+* About $13-25CAD/dish
 
 **Au Pied de Cochon**, [536 Ave. Duluth E](https://maps.google.com/?q=536+Ave.+Duluth+E&entry=gmail&source=g).
 
@@ -32,7 +32,7 @@
 
 * Very expensive, but very, very good.
 
-**Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g) 
+**Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g)
 
 * Chinese restaurant  "hole in the wall"
 
@@ -70,13 +70,13 @@
 
 **The Main**, [3864 Boul. St. Laurent](https://maps.google.com/?q=3864+Boul.+St.+Laurent&entry=gmail&source=g)
 
-* A Montreal cultural experience! 
+* A Montreal cultural experience!
 
 * Taste the famous Montreal smoked meat (in sandwich form or on its own) at Schwartz's (the famous and tourist-filled one) or The Main (the less famous but equally delicious one with no line)
 
 * Get a Medium smoked meat sandwich (medium refers to the amount of fattiness)
 
-* $10-15CAD/dish 
+* $10-15CAD/dish
 
 **Schwartz's**, [3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent&entry=gmail&source=g)
 
@@ -98,7 +98,7 @@
 
 * Great ramen place in the plateau. Karaage chicken is also delicious
 
-* $11-15CAD for a giant bowl of warm, comforting deliciousness 
+* $11-15CAD for a giant bowl of warm, comforting deliciousness
 
 **Le Quartier Général**, [1251 rue Gilford](https://maps.google.com/?q=1251+rue+Gilford&entry=gmail&source=g)
 
@@ -224,7 +224,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * Famous-ish MTL indie music venue
 
-* Quirky atmosphere and often interesting bands 
+* Quirky atmosphere and often interesting bands
 
 * [set list](https://barleritzpdb.com/)
 
@@ -241,3 +241,4 @@ There are basically two places near each other that compete for the "best Montre
 * has hard rock and blues most nights, sometimes a cover to get in.
 
 * [set list](https://www.bistroajojo.com/calendrier)
+
