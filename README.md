@@ -120,6 +120,10 @@ Incredible cafe + coworking space in a repurposed 19th century
 bank [preview](https://www.google.ca/search?q=crew+collective+%26+caf%C3%A9+montreal+qc&safe=off&client=ubuntu&hs=8ku&source=lnms&tbm=isch&sa=X&ved=0ahUKEwju7J-iy9vaAhVIwlkKHRXQC3AQ_AUICygC&biw=1797&bih=1009).
 Gorgeous setting, good coffee, good wifi, excellent place to catch up on email or do a few commits.
 
+**Humble Lion**, [904 Sherbrooke W](https://goo.gl/maps/GGVwPZXjLnC2)
+
+Great coffee, good quality produces, nice atmosphere
+
 **Bagels**:
 
 Many Montrealers believe that their bagels are superior to NY bagels. They are very different (denser and sweeter) and I recommend you try them fresh out of the oven with sesame seeds.
