@@ -179,7 +179,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * Considered one of the best breweries in the world, they often experiment with recipes and test them out here at their home bar, so you can try things that aren’t available anywhere else in the world!
 
-* Their *Moralité *IPA, *Aphrodisiaque *black ale, and *Péché Mortel* (Mortal Sin) stout are all rated 100 on ratebeer, and plus the names are super cool!
+* Their *Moralité* IPA, *Aphrodisiaque* black ale, and *Péché Mortel* (Mortal Sin) stout are all rated 100 on ratebeer, and plus the names are super cool!
 
 * The food isn’t great. The beer is the star.
 
