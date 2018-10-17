@@ -159,13 +159,25 @@ There are basically two places near each other that compete for the "best Montre
 * Great atmosphere
 * Can get very busy
 
+**Monopole**, [782 Wellington St](https://goo.gl/maps/ZJYnpPPLpfq)
+
+* Hip wine bar run by passionate young guy (Gab)
+* Also serve good coffee during the day
+
+**Henrietta** [115 Avenue Laurier O](https://goo.gl/maps/gGVgAbcw5PQ2)
+
+* Rebranded Baldwin
+* Busy spot on the plateau
+* Sources some wines that are unavailble for purchase anywhere else in the province
+
 **Pullman** [3424 Park Ave](https://goo.gl/maps/QfUrNrydKhv)
 
 * pricy but good ambiance, staff and tapas
 
-**Philemon** [111 St Paul W](https://goo.gl/maps/xuYeh6jHZnm)
+~~Philemon~~ [111 St Paul W](https://goo.gl/maps/xuYeh6jHZnm)
 
 * in beautiful old montreal
+* no longer what it used to be, meh crowd meh music nowadays
 
 **Furco** [425 Mayor Street](https://goo.gl/maps/TNmS12vRx6A2)
 
