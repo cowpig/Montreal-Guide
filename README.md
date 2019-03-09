@@ -275,7 +275,7 @@ There are basically two places near each other that compete for the "best Montre
 
 **plateau**
 
-ideal for people in their early 20s who are into. lots of restaurants and bars. hipster vibes. relatively expensive, but you can find shared housing (ie rent one of the bedrooms in a 4+ bedroom apartment) for pretty cheap
+mostly younger people. lots of restaurants and bars. hipster vibes. relatively expensive, but you can find shared housing (ie rent one of the bedrooms in a 4+ bedroom apartment) for pretty cheap. Gets cheaper and more french as you move east
 
 **mile-end**
 
