@@ -315,7 +315,7 @@ I think this can best be described as where people who lived in the plateau in t
 
 **westmount**
 
-traditionally very jewish, upper-class neighborhood. kind of a public-transport black hole
+traditionally jewish, upper-middle-class neighborhood. pretty and expensive housing. more family-oriented, and kind of a public-transport black hole
 
 **NDG**
 
