@@ -271,3 +271,44 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](https://www.bistroajojo.com/calendrier)
 
+## Neighborhoods
+
+the neighborhoods are:
+**plateau**
+ideal for people in their early 20s who are into. lots of restaurants and bars. hipster vibes. relatively expensive, but you can find shared housing (ie rent one of the bedrooms in a 4+ bedroom apartment) for pretty cheap
+
+**mile-end**
+similar to the plateau but a bit more fringe-culture stuff, a bit less dense, and a bit cheaper
+
+**outremont**
+historically an upper-middle-class french neighborhood, has lots of spillover from mile-end, and also houses the hasidic jewish community. a bit removed from public transport, and similar prices to mile-end.
+
+**mcgill ghetto** 
+student housing, cheap, fratty vibes
+
+**downtown**
+central, expensive, busy
+
+**the village**
+gay part of town. very affordable, and crazy nightlife. if you're not comfortable with "interesting characters" roaming the streets at night don't go here
+
+**old port**
+This is where tourists go. Lots of super-swanky apartment buildings, but sometimes you can find relatively cheap converted lofts or old houses. classy/professional/swanky vibes. very little in terms of groceries/amenities. 
+
+**griffintown**
+recently-gentrified neighborhood that's kind of in between old port and downtown. tons of new construction. expensive, lots of amenities. young professional vibes
+
+**south-west/atwater**
+borders griffintown, but is much poorer. closer to the atwater market is really nice. parks, groceries, and a quieter restaurant/bar scene. (this is where I live)
+
+**st-henri**
+I think this can best be described as where people who lived in the plateau in the 20s go in their 30s. Quieter and more family-oriented, but still has some scene. Relatively cheap, and a bit removed from the rest of the city
+
+**westmount**
+traditionally very jewish, upper-class neighborhood. kind of a public-transport black hole
+
+**NDG**
+more of a working-class, diverse neighborhood. Very affordable, but also a public-transport black hole and a bit removed
+
+**pt saint-charles**
+kind of an up-and-coming neighborhood that still has a lot of the oldschool working-class quebecois living there. may look more like st-henri in a decade, but is more mixed now
