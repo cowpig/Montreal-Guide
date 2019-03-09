@@ -319,7 +319,7 @@ traditionally jewish, upper-middle-class neighborhood. pretty and expensive hous
 
 **NDG**
 
-more of a working-class, diverse neighborhood. Very affordable, but also a public-transport black hole and a bit removed
+more of a working-class, diverse neighborhood. Some nightlife & restaurants, but not a ton. Very affordable, but parts of it are a public-transport black hole and a bit removed from the rest of the city
 
 **pt saint-charles**
 
