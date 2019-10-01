@@ -30,7 +30,7 @@
 
 * Long-considered one of Montreal’s finest restaurants
 
-* Very expensive, but very, very good.
+* Very expensive, but also very good.
 
 **Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g)
 
@@ -86,7 +86,15 @@
 
 * Located in "Little Burgundy", this restaurant serves wonderful food, it has broad acclaim but it is rather pricey. You will need reservations.
 
-**Qing Hua**, [1676 Ave Lincoln](https://maps.google.com/?q=1676+Ave+Lincoln&entry=gmail&source=g)
+**Stash Cafe**, [200 St-Paul Ouest](https://goo.gl/maps/uV2bQVBinpHfgwYU9)
+
+* Delicious traditional Polish food in Old Montreal
+
+**Pamika**, [901 Sherbrooke](https://goo.gl/maps/Ysfv4dUdyozWfMtg7)
+
+* Great thai food in the "lower plateau" with outdoor seating. Hip vibe. Warning: "thai spicy" is no joke here.
+
+**Sammi Soup & Dumplings**, [1909 St Catherine Ouest](https://goo.gl/maps/u7KTJ7cyRvzbd8it6)
 
 * Chinese soup dumplings place located downtown, a good choice for tasty, cheap meal
 
