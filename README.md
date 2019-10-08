@@ -52,7 +52,7 @@
 
 * Cheap & delicious tiny hole-in-the-wall that serves traditional quebec junk food. Expect to wait in line during peak hours
 
-**Ganadera**, [1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest&entry=gmail&source=g)
+**Ganadara**, [1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest&entry=gmail&source=g)
 
 * Korean restaurant in the Concordia University area. Cheap and really good.
 
@@ -78,13 +78,25 @@
 
 * $10-15CAD/dish
 
-**Schwartz's**, [3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent&entry=gmail&source=g)
+**Schwartz's**, [3895 Boul. St. Laurent](https://maps.google.com/?q=3895+Boul.+St.+Laurent)
 
 * This is a tourist stop and a fantastic smoked meat deli but our family prefers The Main which is across the street.
 
-**Joe Beef**, [2491 rue Notre Dame Ouest](https://maps.google.com/?q=2491+rue+Notre+Dame+Ouest&entry=gmail&source=g), 514-935-6504
+**Joe Beef**, [2491 rue Notre Dame Ouest](https://maps.google.com/?q=2491+rue+Notre+Dame+Ouest), 514-935-6504
 
-* Located in "Little Burgundy", this restaurant serves wonderful food, it has broad acclaim but it is rather pricey. You will need reservations.
+* Located in "Little Burgundy", this restaurant serves wonderful food, though my experiences have been a bit inconsistent.
+
+* Broad acclaim but it is rather pricey. You will need reservations.
+
+* **Liverpool House** is next-door, with the same owners and a very similar restaurant overall.
+
+**McKiernan Luncheonette**, [5524 St-Patrick (suite 200)](https://www.google.com/maps/place/5524+Rue+Saint-Patrick,+Montréal,+QC+H4E+1A8)
+
+* Part-owned by the Joe Beef crew, this is a remarkable breakfast/lunch spot (open for early dinners on Thursday and Friday only)
+
+* Interesting, delicious food served on the second floor of a large warehouse on the Canal.
+
+* It's kind of out of the way and hard to find but very much worth the effort.
 
 **Stash Cafe**, [200 St-Paul Ouest](https://goo.gl/maps/uV2bQVBinpHfgwYU9)
 
