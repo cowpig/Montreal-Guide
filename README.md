@@ -2,7 +2,7 @@
 
 ## Food
 
-**Kazu**,[ 1862 Ste-Catherine Ouest](https://maps.google.com/?q=1862+Ste-Catherine+Ouest&entry=gmail&source=g)
+**Kazu**,[ 1862 Ste-Catherine Ouest](https://maps.google.com/?q=1862+Ste-Catherine+Ouest)
 
 * MUST GO - by my reckoning, the best quality to price ratio I’ve ever found in a restaurant
 
@@ -18,7 +18,7 @@
 
 * About $13-25CAD/dish
 
-**Au Pied de Cochon**, [536 Ave. Duluth E](https://maps.google.com/?q=536+Ave.+Duluth+E&entry=gmail&source=g).
+**Au Pied de Cochon**, [536 Ave. Duluth E](https://maps.google.com/?q=536+Ave.+Duluth+E).
 
 * Very Montréal gustatory adventure from Québec chef Martin Picard
 
@@ -32,43 +32,67 @@
 
 * Very expensive, but also very good.
 
-**Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent&entry=gmail&source=g)
+**Fung Shing**, [1102 Boul. St Laurent](https://maps.google.com/?q=1102+Boul.+St+Laurent)
 
 * Chinese restaurant  "hole in the wall"
 
-* we love the treasure bean curd, hot and sour soup, and crispy chicken (1/2 can be ordered)
+* Recommend the treasure bean curd, hot and sour soup, and crispy chicken (1/2 can be ordered)
 
-**Larrys**,[ 9 Fairmount Ave Est](https://maps.google.com/?q=9+Fairmount+Ave+Est&entry=gmail&source=g)
+**Larrys**,[ 9 Fairmount Ave Est](https://maps.google.com/?q=9+Fairmount+Ave+Est)
 
 * Nice little cafe/bar in the plateau that serves great food
 
-**Rotisseri Romados**, [115 rue Rachel Est](https://maps.google.com/?q=115+rue+Rachel+Est&entry=gmail&source=g)
+**Rotisseri Romados**, [115 rue Rachel Est](https://maps.google.com/?q=115+rue+Rachel+Est)
 
 * The plateau is full of Portuguese restaurants, especially chicken places. This is the best one
 
 * Very cheap, fast service
 
-**Patati Patata**, [4177 Boul St-Laurent](https://maps.google.com/?q=4177+Boul+St-Laurent&entry=gmail&source=g)
+**Tri Express**, [1650 Laurier Est](https://maps.google.com/?q=1650+Laurier+Ave+E)
+
+* Delicious, affordable sushi and a funky vibe
+
+**Cucina Antica**, [7064 St Laurent Blvd, Montreal](https://maps.google.com/?q=7064+Boul+St-Laurent)
+
+* Favourite Italian restaurant in Little Italy. Decent prices, beautiful decor, great food.
+
+**Marconi**, [45 Avenue Mozart O](https://maps.google.com/?q=45+Av+Mozart+O)
+
+* Swanky & hip tapas-style modern european cuisine in Little Italy with an extensive cocktail selection.
+
+* Expensive, and you probably need a reservation.
+
+**l'Orignal**, [479 Rue St-Alexis](https://maps.google.com/?q=479+Rue+St-Alexis)
+
+* A more expensive, vibey place with a nice bar in the Old Port, the kind of place you might take a business associate or go on a nice date.
+
+**Patati Patata**, [4177 Boul St-Laurent](https://maps.google.com/?q=4177+Boul+St-Laurent)
 
 * Cheap & delicious tiny hole-in-the-wall that serves traditional quebec junk food. Expect to wait in line during peak hours
 
-**Ganadara**, [1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest&entry=gmail&source=g)
+**Ganadara**, [1862 de Maisonneuve Ouest](https://maps.google.com/?q=1862+de+Maisonneuve+Ouest)
 
 * Korean restaurant in the Concordia University area. Cheap and really good.
 
-**Antep Kebab**, [1626 de Maisonneuve Ouest](https://maps.google.com/?q=1626+de+Maisonneuve+Ouest&entry=gmail&source=g)
+* They also have a more expensive, vibey bar around the corner on st-catherine (also has fantastic food)
+
+**Antep Kebab**, [1626 de Maisonneuve Ouest](https://maps.google.com/?q=1626+de+Maisonneuve+Ouest)
 
 * Quick, cheap & good Turkish sandwich shop in the Concordia/Guy metro area.
 
-**Nulifar**, [1923 Ste-Catherine Ouest](https://maps.google.com/?q=1923+Ste-Catherine+Ouest&entry=gmail&source=g)
+**Nulifar**, [1923 Ste-Catherine Ouest](https://maps.google.com/?q=1923+Ste-Catherine+Ouest)
 
 * Another quick, cheap & delicious Guy/Concordia area option. Lebanese food.
 
-**My Cahn**, [1086 Boul St. Laurent](https://maps.google.com/?q=1086+Boul+St.+Laurent&entry=gmail&source=g)
+**Garage Beirut**, [1238 Mackay](https://maps.google.com/?q=1238+rue+Mackay)
+
+* Excellent, affordable lebanese food prepared by two sisters in a cozy little place in the Concorida area.
+
+**My Cahn**, [1086 Boul St. Laurent](https://maps.google.com/?q=1086+Boul+St.+Laurent)
 
 * Fantastic Pho place in chinatown
 
-**The Main**, [3864 Boul. St. Laurent](https://maps.google.com/?q=3864+Boul.+St.+Laurent&entry=gmail&source=g)
+**The Main**, [3864 Boul. St. Laurent](https://maps.google.com/?q=3864+Boul.+St.+Laurent)
 
 * A Montreal cultural experience!
 
@@ -92,11 +116,9 @@
 
 **McKiernan Luncheonette**, [5524 St-Patrick (suite 200)](https://www.google.com/maps/place/5524+Rue+Saint-Patrick,+Montréal,+QC+H4E+1A8)
 
-* Part-owned by the Joe Beef crew, this is a remarkable breakfast/lunch spot (open for early dinners on Thursday and Friday only)
+* Way out in the southwest along the Lachine Canal, this remarkable breakfast/lunch spot (open for early dinners on Thursday and Friday only) is associated with the Joe Beef crew.
 
-* Interesting, delicious food served on the second floor of a large warehouse on the Canal.
-
-* It's kind of out of the way and hard to find but very much worth the effort.
+* Interesting, delicious food served on the second floor of a large warehouse on the Canal. Out of the way and kind of hard to find, but it's worth it!
 
 **Stash Cafe**, [200 St-Paul Ouest](https://goo.gl/maps/uV2bQVBinpHfgwYU9)
 
@@ -116,17 +138,25 @@
 
 * $11-15CAD for a giant bowl of warm, comforting deliciousness
 
-**Le Quartier Général**, [1251 rue Gilford](https://maps.google.com/?q=1251+rue+Gilford&entry=gmail&source=g)
+**KazaMaza**, [4629 du Parc](https://maps.google.com/?q=4629+du+Parc)
+
+* Good middle-eastern food near Parc Jeanne-Mance. Vegetarian friendly.
+
+**ChuChai**, [4088 St Denis](https://maps.google.com/?q=4088+St+Denis)
+
+* I would normally never recommend a vegetarian-only restaurant, but this nice (not cheap) Thai restaurant with soy-based immitation meat is worth a visit regardless of your dietary persuasion!
+
+**Le Quartier Général**, [1251 rue Gilford](https://maps.google.com/?q=1251+rue+Gilford)
 
 * Area sourced food Québécois cuisine. Good, but not cheap--medium to expensive.
 
 **Desserts / Cafés**:
 
-**Juliette & Chocolat,** [3600 Boul. St Laurent](https://maps.google.com/?q=3600+Boul.+St+Laurent&entry=gmail&source=g), and other locations
+**Juliette & Chocolat,** [3600 Boul. St Laurent](https://maps.google.com/?q=3600+Boul.+St+Laurent), and other locations
 
 I love this place, there are several locations in Montreal and, if you're in the mood for a dessert, this is a great choice.
 
-**Cacao 70**, [2087 Sainte-Catherine Ouest](https://maps.google.com/?q=2087+Sainte-Catherine+Ouest&entry=gmail&source=g)
+**Cacao 70**, [2087 Sainte-Catherine Ouest](https://maps.google.com/?q=2087+Sainte-Catherine+Ouest)
 
 This has a warm, rustic urban café ambiance, the desserts are amazing tasting and amazing looking. I would definitely encourage you to stop here. It is downtown near the Guy metro area.
 
@@ -154,23 +184,23 @@ Many Montrealers believe that their bagels are superior to NY bagels. They are v
 
 There are basically two places near each other that compete for the "best Montreal bagel" crown:
 
-**Fairmount Bagels**, [74 Ave Fairmount Ouest](https://maps.google.com/?q=74+Ave+Fairmount+Ouest&entry=gmail&source=g), open 24 hours
+**Fairmount Bagels**, [74 Ave Fairmount Ouest](https://maps.google.com/?q=74+Ave+Fairmount+Ouest), open 24 hours
 
-**St-Viateur**, [263 rue St-Viateur](https://maps.google.com/?q=St-Viateur,+263+rue+St-Viateur&entry=gmail&source=g), open 24 hours
+**St-Viateur**, [263 rue St-Viateur](https://maps.google.com/?q=St-Viateur,+263+rue+St-Viateur), open 24 hours
 
 **Markets**:
 
-**Marché Jean Talon**, [7070 Ave Henri Julien](https://maps.google.com/?q=7070+Ave+Henri+Julien&entry=gmail&source=g)
+**Marché Jean Talon**, [7070 Ave Henri Julien](https://maps.google.com/?q=7070+Ave+Henri+Julien)
 
 * This is a large open air market where you'll find meats, vegetables, fruit, maple syrup, cheeses etc.
 
-**Marché Atwater**, [138 Atwater Ave](https://maps.google.com/?q=138+Atwater+Ave&entry=gmail&source=g)
+**Marché Atwater**, [138 Atwater Ave](https://maps.google.com/?q=138+Atwater+Ave)
 
 * This is similar to the Jean-Talon Market, but at the opposite end of the city.
 
 ## Wine bars
 
-**Le Vin Papillon**, [2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest&entry=gmail&source=g)
+**Le Vin Papillon**, [2519 rue Notre Dame Ouest](https://maps.google.com/?q=2519+rue+Notre+Dame+Ouest)
 
 * Same owner as Joe Beef, and also somewhat pricey. Just down the street.
 
@@ -193,7 +223,7 @@ There are basically two places near each other that compete for the "best Montre
 
 ## Breweries/Craft Beers
 
-**Dieu Du Ciel**, [29 Laurier Avenue](https://maps.google.com/?q=29+Laurier+Avenue&entry=gmail&source=g)
+**Dieu Du Ciel**, [29 Laurier Avenue](https://maps.google.com/?q=29+Laurier+Avenue)
 
 * A must for micro-brew-lovers -- delicious seasonal beers in a homey pub atmosphere.
 
@@ -203,15 +233,15 @@ There are basically two places near each other that compete for the "best Montre
 
 * The food isn’t great. The beer is the star.
 
-**Isle de Garde**, [1039 rue Beaubien Est](https://maps.google.com/?q=1039+rue+Beaubien+Est&entry=gmail&source=g)
+**Isle de Garde**, [1039 rue Beaubien Est](https://maps.google.com/?q=1039+rue+Beaubien+Est)
 
-**Réservoir**, [9 Ave Duluth Est](https://maps.google.com/?q=9+Ave+Duluth+Est&entry=gmail&source=g)
+**Réservoir**, [9 Ave Duluth Est](https://maps.google.com/?q=9+Ave+Duluth+Est)
 
 * Also serves good vegetarian food
 
-**Cheval Blanc**, [809 Ontario Est](https://maps.google.com/?q=809+Ontario+Est&entry=gmail&source=g)
+**Cheval Blanc**, [809 Ontario Est](https://maps.google.com/?q=809+Ontario+Est)
 
-**Vices & Versa**, [6631 Boul. St Laurent](https://maps.google.com/?q=6631+Boul.+St+Laurent&entry=gmail&source=g)
+**Vices & Versa**, [6631 Boul. St Laurent](https://maps.google.com/?q=6631+Boul.+St+Laurent)
 
 * Great selection of Quebec beers and other assorted intrigues (alcoholized Kombucha, etc.)
 
@@ -219,7 +249,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * Food is solid but not spectacular, around $10-15CAD/dish
 
-**Le Saint-Brock,** [1749 rue St-Denis](https://maps.google.com/?q=1749%C2%A0rue+St-Denis&entry=gmail&source=g)
+**Le Saint-Brock,** [1749 rue St-Denis](https://maps.google.com/?q=1749%C2%A0rue+St-Denis)
 
 * Massive selection of interesting beer (I think they have 50 on tap any given night, plus their "Bible" of bottles)
 
@@ -241,7 +271,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list for all three](https://www.lfttckt.com/en/calendar/casa-del-popolo)
 
-**Diese Onze (Bar/Live Jazz),** [4115 Rue St Denis](https://maps.google.com/?q=4115+Rue+St+Denis&entry=gmail&source=g)
+**Diese Onze (Bar/Live Jazz),** [4115 Rue St Denis](https://maps.google.com/?q=4115+Rue+St+Denis)
 
 * Super cool jazz venue tucked into a basement on the Plateau
 
@@ -249,7 +279,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](http://www.dieseonze.com/calendrier.php?l=en)
 
-**Brutopia (Bar/Brew Pub/Live Music)** [1219 rue Crescent](https://maps.google.com/?q=1219+rue+Crescent&entry=gmail&source=g)
+**Brutopia (Bar/Brew Pub/Live Music)** [1219 rue Crescent](https://maps.google.com/?q=1219+rue+Crescent)
 
 * Chill downtown bar with live music almost every night
 
@@ -259,7 +289,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](http://brutopia.net/entertainment)
 
-**Upstairs (Bar/Live Jazz),** [1254 rue Mackay](https://maps.google.com/?q=1254+rue+Mackay&entry=gmail&source=g)
+**Upstairs (Bar/Live Jazz),** [1254 rue Mackay](https://maps.google.com/?q=1254+rue+Mackay)
 
 * Classy and popular downtown jazz venue--look for the upside-down sign
 
@@ -269,7 +299,7 @@ There are basically two places near each other that compete for the "best Montre
 
 * [set list](https://www.upstairsjazz.com/en/calendar.php)
 
-**Bar Le Ritz PDB (Music Venue),** [179 rue Jean-Talon](https://maps.google.com/?q=179+rue+Jean-Talon&entry=gmail&source=g)
+**Bar Le Ritz PDB (Music Venue),** [179 rue Jean-Talon](https://maps.google.com/?q=179+rue+Jean-Talon)
 
 * Famous-ish MTL indie music venue
 
